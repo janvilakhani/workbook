@@ -1,0 +1,11 @@
+{
+    "dbConfig": {
+        "host": "198.251.78.113",
+        "user": "workbook",
+        "password": "Samsun@11",
+        "database": "workbook",
+        "multipleStatements": true,
+        "timezone": "utc+5:30",
+        "charset": "utf8mb4"
+    }
+}
